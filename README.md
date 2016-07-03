@@ -1,5 +1,5 @@
 <content>
-# tableTranster
+# tableTranslater
 A table transter. 
 Wrapped by spring boot application and a text based GUI.
 ## Installation

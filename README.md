@@ -9,7 +9,9 @@ Testing Url
 http://localhost:8080//trans?inpath=&outpath=
 ## Image Demo
 Before:
-![alt tag](https://raw.githubusercontent.com/arieling/translateWholeTable/master/1.png)
-After:
 ![alt tag](https://raw.githubusercontent.com/arieling/translateWholeTable/master/2.png)
-]]></content>
+
+
+After:
+![alt tag](https://raw.githubusercontent.com/arieling/translateWholeTable/master/1.png)
+</content>

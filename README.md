@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:tableTranster}
+# tableTranster
 A table transter. 
 Wrapped by spring boot application and a text based GUI.
 ## Installation

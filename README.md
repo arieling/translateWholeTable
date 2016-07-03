@@ -1,5 +1,4 @@
-<snippet>
-  <content><![CDATA[
+<content>
 # tableTranster
 A table transter. 
 Wrapped by spring boot application and a text based GUI.
@@ -14,5 +13,3 @@ Before:
 After:
 ![alt tag](https://raw.githubusercontent.com/arieling/translateWholeTable/master/2.png)
 ]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>

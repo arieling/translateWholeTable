@@ -22,7 +22,7 @@ public class Trans {
                     //Target language
                     "zh-CN");
             //Set your API-Key from https://console.developers.google.com/
-            list.setKey("AIzaSyBMhnuBS6r9neiauTNoFQO0kMXp3fCV0jQ");
+            list.setKey("xxxxxxxxxxxxxxxxxx");
             TranslationsListResponse response = list.execute();
             return response.getTranslations().get(0).getTranslatedText();
         } catch (Exception e) {
